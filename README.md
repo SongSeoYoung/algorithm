@@ -16,3 +16,4 @@
 |201104|Greedy|[BOJ 17224](https://www.acmicpc.net/problem/17224)
 |201105|Greedy|[BOJ 1758](https://www.acmicpc.net/problem/1758)
 |201106|BackTracking|[BOJ 16968](https://www.acmicpc.net/problem/16968)
+|201109|BackTracking|[BOJ 2992](https://www.acmicpc.net/problem/2992)
