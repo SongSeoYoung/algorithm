@@ -19,3 +19,4 @@
 |201109|BackTracking|[BOJ 2992](https://www.acmicpc.net/problem/2992)
 |201111|BackTracking|[BOJ 18429](https://www.acmicpc.net/problem/18429)
 |201116|BackTracking|[BOJ 18429](https://www.acmicpc.net/problem/18429)
+|201116|BackTracking|[BOJ 18429](https://www.acmicpc.net/problem/18429)
