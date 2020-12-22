@@ -31,3 +31,4 @@
 |201116|백트레킹|[BOJ 18429](https://www.acmicpc.net/problem/18429)
 |201116|백트레킹|[BOJ 18429](https://www.acmicpc.net/problem/18429)
 |201221|DP|[BOJ 9095](https://www.acmicpc.net/problem/9095)
+|201222|DP|[BOJ 1149](https://www.acmicpc.net/problem/1149)
