@@ -35,3 +35,7 @@
   
 ### 예제 출력 
 30
+
+----
+### 풀이 사진
+<img width="540" alt="image" src="https://user-images.githubusercontent.com/42825223/102970385-c1fdfd80-453a-11eb-9aec-7ada513997fe.png">
