@@ -16,7 +16,7 @@
 
 
 |날짜|유형|문제|
-|:--------:|:-------:|:-----------:|
+|:--------:|:-------:|:-----------:|:-----------|:-------------------------------:
 |201026|DP|[BOJ 1463](https://www.acmicpc.net/problem/1463)
 |201027|DP|[BOJ 2579](https://www.acmicpc.net/problem/2579)
 |201028|DP|[BOJ 11726](https://www.acmicpc.net/problem/11726)
@@ -32,3 +32,4 @@
 |201116|백트레킹|[BOJ 18429](https://www.acmicpc.net/problem/18429)
 |201221|DP|[BOJ 9095](https://www.acmicpc.net/problem/9095)
 |201222|DP|[BOJ 1149](https://www.acmicpc.net/problem/1149)
+|201223|DP|[BOJ 1932](https://www.acmicpc.net/problem/1149)|(정수 삼각형)|하도 DP 만 풀어서그런가 이제 실버정도는..ㅎㅎ 껌이다 (뷁!!!)|
