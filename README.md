@@ -17,6 +17,7 @@
 
 |날짜|유형|문제|문제 이름|한줄 평|이동|
 |:--------:|:--------:|:-----------:|:-----------:|:-------------------------------:|:-----:|
+|201224|DP|[BOJ 2193](https://www.acmicpc.net/problem/2193)|이친수|흠...? 이게 맞아?|[👉]
 |201223|DP|[BOJ 1932](https://www.acmicpc.net/problem/1149)|정수 삼각형|계속 DP 만 풀어서그런가 이제 실버정도는..ㅎㅎ(뷁!!!)|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D1932)
 |201222|DP|[BOJ 1149](https://www.acmicpc.net/problem/1149)|RGB거리|교수님이 알려주신 dp테이블채우기 열심히 활용했다❗️|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D1149)
 |201221|DP|[BOJ 9095](https://www.acmicpc.net/problem/9095)|1,2,3 더하기| 다시 시작한 기념으로 실버3부터 풀어보쟈 |[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D9095)
