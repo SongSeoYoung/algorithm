@@ -17,7 +17,7 @@
 
 |날짜|유형|문제|문제 이름|한줄 평|이동|
 |:--------:|:--------:|:-----------:|:-----------:|:-------------------------------:|:-----:|
-|201225|DP|[BOJ 2156](https://www.acmicpc.net/problem/2156)|포도주 시식|2차원 리스트로 풀다가 메모리 초과...로 멘탈나감|
+|201225|DP|[BOJ 2156](https://www.acmicpc.net/problem/2156)|포도주 시식|2차원 리스트로 풀다가 메모리 초과...로 멘탈나감|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D2156)
 |201224|DP|[BOJ 2193](https://www.acmicpc.net/problem/2193)|이친수|흠...? 이게 맞아? 왜??!! |[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D2193)
 |201223|DP|[BOJ 1932](https://www.acmicpc.net/problem/1149)|정수 삼각형|계속 DP 만 풀어서그런가 좀 익숙ㅎㅎ😅|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D1932)
 |201222|DP|[BOJ 1149](https://www.acmicpc.net/problem/1149)|RGB거리|교수님이 알려주신 dp테이블채우기 열심히 활용했다❗️|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D1149)
