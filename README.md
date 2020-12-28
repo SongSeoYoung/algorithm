@@ -17,6 +17,7 @@
 
 |날짜|유형|문제|문제 이름|한줄 평|이동|
 |:--------:|:--------:|:-----------:|:-----------:|:-------------------------------:|:-----:|
+|201228|스택|[BOJ 10828](https://www.acmicpc.net/problem/10828)|스택|Swift로 푼 첫 문제. 문자열다루는게 생소해서 어려웠음|[👉]()
 |201228|정렬|[BOJ 1764](https://www.acmicpc.net/problem/1764)|듣보잡|정렬도 정렬인데 python set에 대해 더 알 수 있었음|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D1764)
 |201225|DP|[BOJ 2156](https://www.acmicpc.net/problem/2156)|포도주 시식|2차원 리스트로 풀다가 메모리 초과...로 멘탈나감|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D2156)
 |201224|DP|[BOJ 2193](https://www.acmicpc.net/problem/2193)|이친수|흠...? 이게 맞아? 왜??!! |[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D2193)
