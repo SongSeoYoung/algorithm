@@ -17,8 +17,7 @@
 
 |날짜|유형|문제|문제 이름|한줄 평|이동|
 |:--------:|:--------:|:-----------:|:-----------:|:-------------------------------:|:-----:|
-|201231|정렬|[BOJ 8979](https://www.acmicpc.net/problem/8979)|전화번호 목록|생각보다 쉽게 풀어버린 첫 골드문제.. & readline 사용|[👉]()
-|201230|스택|[BOJ 9012](https://www.acmicpc.net/problem/9012)|괄호|Swift로 푸는건 역시 아직 익숙치않아 어렵다|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D9012)
+|201230|스택|[BOJ 9012](https://www.acmicpc.net/problem/1431)|괄호|Swift로 푸는건 역시 아직 익숙치않아 어렵다|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D9012)
 |201230|정렬|[BOJ 1431](https://www.acmicpc.net/problem/1431)|시리얼 번호| 결국 이 문제도 `lambda` 사용이 젤 중요함|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D1431)
 |201229|정렬|[BOJ 11650](https://www.acmicpc.net/problem/11650)|좌표 정렬하기| `lambda`에 대해 정확히 알았다! |[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D11650)
 |201228|스택|[BOJ 10828](https://www.acmicpc.net/problem/10828)|스택|Swift로 푼 첫 문제. 문자열다루는게 생소해서 어려웠음|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D10828)
