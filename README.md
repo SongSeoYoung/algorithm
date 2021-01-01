@@ -17,6 +17,7 @@
 
 |날짜|유형|문제|문제 이름|한줄 평|이동|
 |:--------:|:--------:|:-----------:|:-----------:|:-------------------------------:|:-----:|
+|210101|정렬|[BOJ 10815](https://www.acmicpc.net/problem/10815)|숫자카드| 재귀보다 반복이 좋을 경우가 생각보다 많은 것 같다❗️ |[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D10815)
 |201231|정렬|[BOJ 5052](https://www.acmicpc.net/problem/5052)|전화번호 목록|생각보다 쉽게 풀어버린 첫 골드문제.. & readline 사용|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D5052)
 |201230|스택|[BOJ 9012](https://www.acmicpc.net/problem/9012)|괄호|Swift로 푸는건 역시 아직 익숙치않아 어렵다|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D9012)
 |201230|정렬|[BOJ 1431](https://www.acmicpc.net/problem/1431)|시리얼 번호| 결국 이 문제도 `lambda` 사용이 젤 중요함|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D1431)
