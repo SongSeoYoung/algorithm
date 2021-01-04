@@ -17,6 +17,7 @@
 
 |날짜|유형|문제|문제 이름|한줄 평|이동|
 |:--------:|:--------:|:-----------:|:-----------:|:-------------------------------:|:-----:|
+|210104|그리디|[BOJ 1138](https://www.acmicpc.net/problem/1138) | 한 줄로 서기| 컨디션 난조.. 급 어렵다... |[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D1138)
 |210101|큐|[BOJ 1158](https://www.acmicpc.net/problem/1158) | 요세푸스 | 문자열 다루기! for 문 배열 범위 체크! 확실히 배움 |[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D1158)
 |210101|정렬|[BOJ 10815](https://www.acmicpc.net/problem/10815)|숫자카드| 재귀보다 반복이 좋을 경우가 생각보다 많은 것 같다❗️ |[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D10815)
 |201231|정렬|[BOJ 5052](https://www.acmicpc.net/problem/5052)|전화번호 목록|생각보다 쉽게 풀어버린 첫 골드문제.. & readline 사용|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D5052)
