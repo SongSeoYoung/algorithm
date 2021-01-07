@@ -17,6 +17,7 @@
 
 |날짜|유형|문제|문제 이름|한줄 평|이동|
 |:--------:|:--------:|:-----------:|:-----------:|:-------------------------------:|:-----:|
+|210107|그리디|[BOJ 11047](https://www.acmicpc.net/problem/11047)|동전 0| 실력이 제자리걸음인것 같다 😔 |[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D11047)
 |210106|그리디|[BOJ 2217](https://www.acmicpc.net/problem/2217)|로프| 드디어... 반례를 찾았다!!! |[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D2217)
 |210105|그리디|[BOJ 11399](https://www.acmicpc.net/problem/11399)|ATM| 완전 쌩 기본 그리디.. 난이도 조절 실패ㅠ |[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D11399)
 |210104|그리디|[BOJ 1138](https://www.acmicpc.net/problem/1138) | 한 줄로 서기| 컨디션 난조.. 급 어렵다... |[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D1138)
