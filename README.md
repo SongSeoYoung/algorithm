@@ -15,9 +15,10 @@
 ----------------
 
 
-|날짜|유형|문제|문제 이름|한줄 평|이동|
+|날짜|유형|문제|문제 이름|한줄평|이동|
 |:--------:|:--------:|:-----------:|:-----------:|:-------------------------------:|:-----:|
-|210111|그래프|[BOJ 1260](https://www.acmicpc.net/problem/11047)|DFS와BFS|오랜만에 트리! 2차원리스트이용함|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D1260)
+|210112|그래프|[BOJ 2606](https://www.acmicpc.net/problem/2606)|바이러스|DFS, BFS 기본 응용문제이다|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D2606)
+|210111|그래프|[BOJ 1260](https://www.acmicpc.net/problem/1260)|DFS와BFS|오랜만에 트리! 2차원리스트이용함|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D1260)
 |210107|그리디|[BOJ 11047](https://www.acmicpc.net/problem/11047)|동전 0| 실력이 제자리걸음인것 같다 😔 |[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D11047)
 |210106|그리디|[BOJ 2217](https://www.acmicpc.net/problem/2217)|로프| 드디어... 반례를 찾았다!!! |[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D2217)
 |210105|그리디|[BOJ 11399](https://www.acmicpc.net/problem/11399)|ATM| 완전 쌩 기본 그리디.. 난이도 조절 실패ㅠ |[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D11399)
