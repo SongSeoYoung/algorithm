@@ -17,7 +17,7 @@
 
 |날짜|유형|문제|문제 이름|한줄평|이동|
 |:--------:|:--------:|:-----------:|:-----------:|:-------------------------------:|:-----:|
-|210113|그래프|[BOJ 11724](https://www.acmicpc.net/problem/11724)|연결요소의 갯수|Swift 로 푼 첫 번째 그래프~~ 이제 스위프트 뽀개야지|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D11724)
+|210113|그래프|[BOJ 11724](https://www.acmicpc.net/problem/11724)|연결요소의갯수|Swift 로 푼 첫 번째 그래프~~ 이제 스위프트 뽀개야지|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D11724)
 |210112|그래프|[BOJ 2606](https://www.acmicpc.net/problem/2606)|바이러스|DFS, BFS 기본 응용문제이다|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D2606)
 |210111|그래프|[BOJ 1260](https://www.acmicpc.net/problem/1260)|DFS와BFS|오랜만에 트리! 2차원리스트이용함|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D1260)
 |210107|그리디|[BOJ 11047](https://www.acmicpc.net/problem/11047)|동전 0| 실력이 제자리걸음인것 같다 😔 |[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D11047)
