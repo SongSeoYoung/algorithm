@@ -17,6 +17,7 @@
 
 |날짜|유형|문제|문제 이름|한줄평|이동|
 |:--------:|:--------:|:-----------:|:-----------:|:-------------------------------:|:-----:|
+|210118|문자열|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/49993?language=swift#)|스킬트리|String 을 character 로 쪼개는 효율적 방법|
 |210116|그래프|[BOJ 2252](https://www.acmicpc.net/problem/2252)|줄세우기|위상정렬문제. `inDegree` 가 포인트|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D2252)
 |210114|그래프|[BOJ 7576](https://www.acmicpc.net/problem/7576)|토마토|가로세로로 BFS 사용하기! 뿌듯해용😚|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D7576)
 |210113|그래프|[BOJ 11724](https://www.acmicpc.net/problem/11724)|연결요소의갯수|Swift 로 푼 첫 번째 그래프~~ 이제 스위프트 뽀개야지|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D11724)
