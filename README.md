@@ -1,20 +1,18 @@
 ## 알고리즘 STUDY
 
-
+<br>
 
 #### 🙋‍♀️ 매일 풀자. 욕심내지 말자. 꾸준히 오래!! 화이티이ㅣ잉 🙋‍♀️  ####
 
 <br>
 
 
-
-<br>
-
 ----------------
 
 
 |날짜|유형|문제|문제 이름|이동|
 |:--------:|:--------:|:-------------:|:-------------:|:--:|
+|210119|큐|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42587)|프린터|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/Programmers/%5BProgrammers%5DPrinter)
 |210118|문자열|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/49993?language=swift#)|스킬트리|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/Programmers/%5BProgrammers%5DskillTree)
 |210116|그래프|[BOJ 2252](https://www.acmicpc.net/problem/2252)|줄세우기|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D2252)
 |210114|그래프|[BOJ 7576](https://www.acmicpc.net/problem/7576)|토마토|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D7576)
