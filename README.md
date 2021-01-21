@@ -12,6 +12,7 @@
 
 |날짜|유형|문제|문제 이름|이동|
 |:--------:|:--------:|:-------------:|:-------------:|:--:|
+|210121|문자열|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/68645)|삼각달팽이|[👉]()
 |210119|큐|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42587)|프린터|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/Programmers/%5BProgrammers%5DPrinter)
 |210118|문자열|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/49993?language=swift#)|스킬트리|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/Programmers/%5BProgrammers%5DskillTree)
 |210116|그래프|[BOJ 2252](https://www.acmicpc.net/problem/2252)|줄세우기|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D2252)
