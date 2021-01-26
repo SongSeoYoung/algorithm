@@ -12,6 +12,7 @@
 
 |날짜|유형|문제|문제 이름|이동|
 |:--------:|:--------:|:-------------:|:-------------:|:--:|
+|210126||[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12981)|영어 끝말잇기|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/Programmers/%5BProgrammers%5D영어끝말잇기)
 |210125|배열|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42888)|오픈채팅방|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/Programmers/%5BProgrammers%5D오픈채팅방)
 |210122|규칙?|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/67256)|키패드누르기|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/Programmers/%5BProgrammers%5D키패드누르기)
 |210121|문자열|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/68645)|삼각달팽이|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/Programmers/%5BProgrammers%5D삼각달팽이)
