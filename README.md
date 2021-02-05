@@ -12,7 +12,7 @@
 
 |날짜|유형|문제|문제 이름|이동|
 |:--------:|:--------:|:-------------:|:-------------:|:--:|
-|210204|그래프|[BOJ 2667]()<br>[BOJ 1303]()|단지번호<br>전쟁-전투|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D2667)<br>[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D1303)
+|210204|그래프|[BOJ 2667](https://www.acmicpc.net/problem/2667)<br>[BOJ 1303](https://www.acmicpc.net/problem/1303)|단지번호붙이기<br>전쟁-전투|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D2667)<br>[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D1303)
 |210203|그래프|[BOJ 11403](https://www.acmicpc.net/problem/11403)|경로찾기|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D11403)
 |210203|DP|[BOJ 1912](https://www.acmicpc.net/problem/1912)<br>[BOJ 9465](https://www.acmicpc.net/problem/9465)|연속 합<br>스티커|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D1912)<br>[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D9465)
 |210202|DP|[BOJ 11053](https://www.acmicpc.net/problem/11053)|가장 긴 증가하는 부분 수열|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D11053)
