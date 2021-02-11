@@ -12,7 +12,7 @@
 
 |날짜|유형|문제|문제 이름|이동|
 |:--------:|:--------:|:-------------:|:-------------:|:--:|
-|210211|스택<br>문자열|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/64061)<br>[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/72410)|크레인 인형뽑기 게임<br>신규 아이디추천|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/Programmers/%5BProgrammers%5D크레인인형뽑기게임)<br>[👉](https://github.com/SongSeoYoung/algorithm/tree/master/Programmers/%5BProgrammers%5D신규아이디추천)
+|210211|스택<br>문자열|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/64061)<br>[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/72410)|크레인 인형뽑기 게임<br>신규 아이디 추천|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/Programmers/%5BProgrammers%5D크레인인형뽑기게임)<br>[👉](https://github.com/SongSeoYoung/algorithm/tree/master/Programmers/%5BProgrammers%5D신규아이디추천)
 |210210|정렬|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42746)|가장 큰 수|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/Programmers/%5BProgrammers%5D가장큰수)
 |210208|수학|[BOJ 1929](https://www.acmicpc.net/problem/1929)|소수구하기|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D1929)
 |210206|그래프|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/43162)|네트워크|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/Programmers/%5BProgrammers%5D네트워크)
