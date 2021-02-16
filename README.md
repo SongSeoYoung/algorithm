@@ -12,6 +12,7 @@
 
 |날짜|유형|문제|문제 이름|이동|
 |:--------:|:--------:|:-------------:|:-------------:|:--:|
+|210216|다중집합|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/17677)|뉴스 클러스터링|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/Programmers/%5BProgrammers%5D뉴스클러스터링)
 |210215|문자열|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/17682)|다트게임|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/Programmers/%5BProgrammers%5D다트게임)
 |210214|정렬|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42889)|실패율|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/Programmers/%5BProgrammers%5D실패율)
 |210212|배열|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/17681)|비밀지도|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/Programmers/%5BProgrammers%5D비밀지도)
