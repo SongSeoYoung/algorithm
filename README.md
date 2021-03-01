@@ -12,6 +12,7 @@
 
 |날짜|유형|문제|문제 이름|이동|
 |:--------:|:--------:|:-------------:|:-------------:|:--:|
+|210301|큐|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42583)|다리를 지나는 트럭|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/Programmers/%5BProgrammers%5D다리를지나는트럭)
 |210217|문자열|[BOJ 1316](https://www.acmicpc.net/problem/1316)|그룹단어체커|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/BOJ/%5BBOJ%5D1316)
 |210216|다중집합|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/17677)|뉴스 클러스터링|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/Programmers/%5BProgrammers%5D%5B1차%5D뉴스클러스터링)
 |210215|문자열|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/17682)|다트게임|[👉](https://github.com/SongSeoYoung/algorithm/tree/master/Programmers/%5BProgrammers%5D다트게임)
