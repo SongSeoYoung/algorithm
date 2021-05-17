@@ -68,9 +68,12 @@ func solution(_ name:String) -> Int {
         while nextIndex < len && arr[nextIndex] == "A" {
             nextIndex += 1
         }
+        print(directionCount, "dir count")
+        print(nextIndex,"현재 위치에서 다음 것이 A라면 그게 어디까지인지를 체크한다")
         directionCount = min(directionCount, i+i+len - nextIndex)
+        print("final dir count", directionCount)
     }
     answer += directionCount
     return answer
 }
-print(solution("JAN"))
+print(solution("JKAEHNN"))
