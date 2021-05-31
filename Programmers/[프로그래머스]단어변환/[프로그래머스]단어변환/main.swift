@@ -8,14 +8,14 @@ func solution(_ begin:String, _ target:String, _ words:[String]) -> Int {
     //노드에 대한 정보를담음
     var arr: [[[Int]]] = Array(repeating: [[Int]](), count: n+1)
     
+    //방문정보
     var visitied = Array(repeating: false, count: n+1)
     
     //최단거리 저장용
     var distance = Array(repeating: 987654321, count: n+1)
     
-    
     for i in 0..<words.count {
-        //시작단어랑 먼저 비교해보고
+        //시작단어랑 먼저 비교해보고 한 글자 차이라면 노드정보에 추가
         let word = Array(words[i])
         var count = 0
         for w in 0..<word.count {
@@ -25,7 +25,7 @@ func solution(_ begin:String, _ target:String, _ words:[String]) -> Int {
         if count <= 1 {
             arr[0].append([i+1, 1])
         }
-        //나 이후의 뒷 단어들에대해 정보 찾기
+        //나를 제외한 다른 단어와 나의 관계 파악. 한 글자 차이라면 노드정보에 추가
         for j in 0..<words.count {
             if j != i {
                 count = 0
@@ -53,13 +53,16 @@ func solution(_ begin:String, _ target:String, _ words:[String]) -> Int {
         return index
     }
     
+    //시작 초기세팅
     distance[0] = 0
     visitied[0] = true
+    //시작 지점에 대한 정보가 있다면 그 노드들에 대해서 일단 먼저 distance에 추가함
     for info in arr[0] {
         let destination = info[0]
         let value = info[1]
         distance[destination] = value
     }
+    //전체를 돌면서 최단거리를 찾음.
     for i in 0...n {
         let currentShort = getShortDistance()
         visitied[currentShort] = true
