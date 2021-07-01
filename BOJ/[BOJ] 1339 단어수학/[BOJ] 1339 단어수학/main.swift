@@ -1,3 +1,4 @@
+import Foundation
 func solution() {
     let n = Int(String(readLine()!))!
     
@@ -7,21 +8,9 @@ func solution() {
     for _ in 0..<n {
         arr.append(Array(readLine()!).map { String($0) })
     }
+    var arrCount = arr.count
     arr.sort { a, b in
-        if a.count != b.count {
-            return  a.count > b.count
-        }
-        else {
-            var aCount = 0
-            var bCount = 0
-            for i in 0..<a.count {
-                if a[i] == a[0] { aCount += 1 }
-            }
-            for i in 0..<b.count {
-                if b[i] == b[0] { bCount += 1 }
-            }
-            return aCount > bCount
-        }
+            return  a.count >= b.count
     }
 //    print(arr)
     var count = 9
@@ -60,4 +49,48 @@ func solution() {
     print(answer)
 }
 
-solution()
+//solution()
+
+
+func sol2() {
+    var n = Int(String(readLine()!))!
+    var arr: [[String]] = [[String]]()
+    var dic: [String: Int] = [String: Int]()
+    
+    for _ in 0..<n {
+        arr.append(Array(readLine()!).map { String($0) })
+    }
+    print(arr)
+    for i in 0..<arr.count {
+        for j in 0..<arr[i].count {
+            
+            var a = 1
+            for i in 0..<arr[i].count - j - 1{
+                a *= 10
+            }
+            
+            if let originalValue = dic[arr[i][j]] {
+                dic.updateValue(originalValue + a, forKey: arr[i][j])
+            } else {
+                dic.updateValue(a, forKey: arr[i][j])
+            }
+        }
+    }
+    print(dic)
+    var arrNew: [Int] = [Int]()
+    for i in dic.values {
+        arrNew.append(i)
+    }
+    var initValue = 9
+    var sum = 0
+    arrNew.sort { a, b in
+        return a > b
+    }
+    for i in arrNew {
+        sum += i*initValue
+        initValue -= 1
+    }
+    print(sum)
+}
+
+sol2()
